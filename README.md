@@ -1,4 +1,4 @@
-# mitmproxy2case [![Version][version-badge]][version-link] ![MIT License][license-badge]
+# mitmproxy2case
 
 
 A command-line tool to convert mitmproxy recordings to httprunner testcases
@@ -6,7 +6,7 @@ A command-line tool to convert mitmproxy recordings to httprunner testcases
 `mitmproxy2case` 是一款将使用mitmproxy抓包的数据流转换为httprunner执行测试用例的命令行脚本工具
 
 
-### 使用方式
+### Usage
 First record requests and responses using mitmproxy. For instance:
 
 ```
