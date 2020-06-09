@@ -26,6 +26,6 @@ $ pip install mitmproxy2case
 
 
 ### License
-
+MIT[https://github.com/T8840/mitmproxy2case/blob/master/LICENSE]
 
 
